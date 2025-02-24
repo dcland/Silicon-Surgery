@@ -1,4 +1,4 @@
-# **Arduino Exploit Lab 🚀🔬**
+# **Silicon-Surgery - An Arduino Exploit Lab 🚀🔬**
 
 Welcome to **Arduino Exploit Lab**, a hands-on workshop designed to teach **hardware security, firmware exploitation, and reverse engineering** using real-world vulnerabilities in Arduino-based systems.
 
