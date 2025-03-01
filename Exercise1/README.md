@@ -14,7 +14,7 @@ This exercise runs on **any Arduino** and requires only a **computer with a USB 
 ## **📌 What You Should Do**
 1. **Clone the repository** to get the exercise files:  
    ```bash
-   git clone https://github.com/your-repo/arduino-exploit-lab.git
+   git clone https://github.com/dcland/Silicon-Surgery.git
    ```
 2. Navigate into the exercise directory:  
    ```bash
